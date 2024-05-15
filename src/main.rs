@@ -15,7 +15,6 @@ fn main() -> Result<()> {
         ImageReader::open("test_img/1.png")?.decode()?.to_rgba8(),
     ];
 
-    let half = base.width() / 2;
     for img in scales {
         let rat = base.width() / img.width();
         let mut cury = rat / 2;
