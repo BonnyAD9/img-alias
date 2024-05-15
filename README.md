@@ -1,11 +1,7 @@
 # img-alias
 Program for creating images with aliasing.
 
-## Usage
-TODO: brief example
-
-## How to get it
-TODO: how to get it
+I turns out that it doesn't work very well in practice.
 
 ## Links
 - **Author**: [BonnyAD9][author]
