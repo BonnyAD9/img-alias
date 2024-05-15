@@ -1,7 +1,8 @@
 # img-alias
 Program for creating images with aliasing.
 
-I turns out that it doesn't work very well in practice.
+It turns out that it doesn't work very well in practice, but the main idea
+works in ideal cases:
 
 https://github.com/BonnyAD9/img-alias/assets/46282097/c589bd53-ea9c-4170-9087-e187611dab4f
 
